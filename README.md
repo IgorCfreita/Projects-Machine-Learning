@@ -12,8 +12,9 @@ Atualmente, tenho me dedicado aos estudos e aprimoramento sobre ciência de dado
 
 [US supermarket - Modelo de regras de associação](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/US_supermaket_data)
 
-[Customer Clustering - Modelo de Clusterização](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/customer_clustering)
+[Customer Clustering - Modelo de clusterização](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/customer_clustering)
 
+[Predictive Maintance - Modelo de classificação](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/Predictive%20Maintenance)
 
 # Redes sociais:
 
