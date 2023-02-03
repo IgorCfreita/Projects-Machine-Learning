@@ -16,6 +16,8 @@ Atualmente, tenho me dedicado aos estudos e aprimoramento sobre ciência de dado
 
 [Predictive Maintance - Modelo de classificação](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/Predictive%20Maintenance)
 
+[Taxi trip duration - Modelo de regressão](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/New%20york%20city%20-%20taxi%20trip%20duration)
+
 # Redes sociais:
 
 [Linkedin](http://www.linkedin.com/in/igorcoefreitas)
