@@ -18,6 +18,8 @@ Atualmente, tenho me dedicado aos estudos e aprimoramento sobre ciência de dado
 
 [Taxi trip duration - Modelo de regressão](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/New%20york%20city%20-%20taxi%20trip%20duration)
 
+[Store Sales(Time Series) - Modelo de regressão](https://github.com/IgorCfreita/Projects-Machine-Learning/tree/main/Store%20Sales%20-%20Time%20Series%20Forecasting)
+
 # Redes sociais:
 
 [Linkedin](http://www.linkedin.com/in/igorcoefreitas)
