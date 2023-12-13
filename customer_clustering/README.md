@@ -9,7 +9,7 @@ Portanto será analisado um dataset contendo algumas informações básicas dos 
 # Análise Exploratória dos Dados
 
 Examinando o glossário do dataset tem-se:
-<img src="customer_clustering/img_project/desc_variaveis.jpg">
+<img src="/customer_clustering/img_project/desc_variaveis.jpg">
 
 
 
