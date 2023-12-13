@@ -177,9 +177,9 @@ O 'Elbow method' ou 'método do cotovelo' é um método para definir a quantidad
 
 O critério 'Calinski and Harabasz' é um método que leva em consideração do quão semelhante um objeto é ao seu próprio cluster (coesão) em comparação com outros clusters (separação). Aqui, a coesão é estimada com base nas distâncias dos pontos de dados em um cluster ao centróide do cluster e a separação é baseada na distância dos centróides do cluster ao centróide global. Ele também é avaliado graficamente e valor mais alto desse método significa que os clusters são densos e bem separados, embora não exista um valor de corte “aceitável”. Precisamos escolher aquela solução que fornece um pico ou pelo menos uma curva abrupta no gráfico linear.
 
-<img src="/customer_clustering/img_project/ img_crit1.jpg ">
+<img src="/customer_clustering/img_project/img_crit1.jpg ">
 
-<img src="/customer_clustering/img_project/ img_crit2.jpg ">
+<img src="/customer_clustering/img_project/img_crit2.jpg ">
 
 
 Observando os gráficos tem-se que:
@@ -196,11 +196,11 @@ Com o intuito de ter uma melhor explicabilidade dos clusters gerados, será util
 
 Portanto, a utilização desta técnica tem como objetivo criar novas dimensões para uma melhor visualização dos clusters gerados
 
-<img src="/customer_clustering/img_project/ img_PCA.jpg ">
+<img src="/customer_clustering/img_project/img_PCA.jpg">
 
 Observando o gráfico nota-se que a explicabilidade dos dados com três componentes é de 84,3% sendo um valor que eu considero razoável para a visualização dos dados.
 
-<img src="/customer_clustering/img_project/ img_final_cluster.png ">
+<img src="/customer_clustering/img_project/img_final_cluster.png">
 
 Analisando o gráfico gerado tem-se que as classes 1 e 4 estão bem isoladas podendo representar grupos distintos de clientes-alvo.
 
@@ -209,7 +209,7 @@ Já as classes 6 e 3 aparentam estar muito próximas, necessitando verificar se 
 # Análise dos clusters
 ### Clusters 3 e 6
 
-<img src="/customer_clustering/img_project/ img_c3_c6.png ">
+<img src="/customer_clustering/img_project/img_c3_c6.png">
 
 Nota-se pelos gráficos que:
 - Ambos os clusters (3 e 6) são compostos unicamente pela classe 'male' na variável 'Sex' e pela classe 'single' pela variável 'Marital status'. Isto pode indicar que essas duas variáveis tiveram grande impacto na elaboração do modelo de clusterização.
@@ -223,7 +223,7 @@ Por fim, os dois clusters algumas similaridades, mas têm diferenças bem signif
 
 ### Clusters 2 e 5
 
-<img src="/customer_clustering/img_project/ img_c2_c5.png ">
+<img src="/customer_clustering/img_project/img_c2_c5.png ">
 
 Nota-se pelos gráficos que:
 - Ambos os clusters (2 e 5) são compostos unicamente pela classe 'female' na variável 'Sex' e pela classe 'non-single' pela variável 'Marital status'.
@@ -236,7 +236,7 @@ Da mesma forma que ocorreu entre os clusters 6 e 3 ocorreu entre os clusters 5 e
 
 ### Clusters 1 e 4
 
-<img src="/customer_clustering/img_project/ img_c1_c4.png ">
+<img src="/customer_clustering/img_project/img_c1_c4.png ">
 
 Examinando os clusters 1 e 4 temos:
 - O cluster 1 é composto pela classe 'male' da variável 'Sex' e pela classe 'non-single' da variável 'Marital status'.
