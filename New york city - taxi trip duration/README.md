@@ -1,4 +1,4 @@
-# **Situação Problema
+# **Situação Problema**
 
 Uma empresa de táxi da cidade de Nova York deseja desenvolver um aplicativo para prever a duração das viagens que serão feitas. Para isso, foi disponibilizado um conjunto de dados de viagens de New York City feitos por taxi e limousines, que inclui tempo de coleta, geocoordenadas, número de passageiros e entre outras variáveis.
 
