@@ -11,7 +11,7 @@ Com base nisto, será definido os seguintes objetivos:
 # **Visualização e pré-processamento **
 <img src="/Bank_marketing_dataset/Project_prints/data_desc.png ">
 
-
+Analisando a descrição do dataset, nota-se que existem 6 variáveis numéricas, 9 variáveis categóricas e 2 variáveis em formato de data.
 
 <img src="/Bank_marketing_dataset/Project_prints/img_01.png ">
 
