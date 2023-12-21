@@ -1,8 +1,8 @@
 # Situação problema
 
+Um dos maiores medos de lojas que estão recém inaugurando em shoppings/hipermercados é saber definir e identificar se o público alvo que transita naquele local é compatível com os produtos que vão ser oferecidos por essas lojas. 
 
-
-A presente análise tem como objetivo auxiliar uma loja na elaboração de possíveis campanhas de marketings e na venda de serviços ou produtos novos.
+Com base nesta premissa, a presente análise tem como objetivo auxiliar uma loja na elaboração de possíveis campanhas de marketings e na venda de serviços ou produtos novos.
 
 Para tal é necessário à identificação de grupos de clientes-alvo e quais seriam suas características principais.
 
