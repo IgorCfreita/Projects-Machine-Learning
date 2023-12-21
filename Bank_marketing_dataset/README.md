@@ -1,6 +1,7 @@
 # **Introdução**
+Uma das maiores preocupações durante a elaboração de uma campanha de marketing é saber se ela conseguirá ter um impacto satisfatório, seja tendo uma maior retenção de clientes, um menor custo por cliente, ou até mesmo conseguir identificar quais são os pontos que geram maior impacto ao fim da campanha.
 
-O presente código tem como objetivo o desenvolvimento de um algoritmo de machine learning capaz de prever o resultado da campanha de marketing de um banco, identificando se o usuário realizou o depósito ou não após a campanha.
+Portanto, o presente código tem como objetivo o desenvolvimento de um algoritmo de machine learning capaz de prever o resultado da campanha de marketing de um banco, identificando se o usuário realizou o depósito ou não após a campanha, facilitando assim a identificação de possíveis candidados para campanhas futuras, além de identificar os parâmetros de maior importância para a aprevisão de sucesso desta campanha, facilitando a elaboração e estruturação de campanhas futuras.
 
 Portanto o algoritmo deve ser capaz de classificar de maneira binária o resultado da campanha.
 
