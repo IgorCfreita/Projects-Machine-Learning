@@ -4,7 +4,7 @@ Sou engenheiro mecânico formado na Universidade Federal do Espírito Santo (UFE
 Mesmo após uma breve experiência trabalhando como engenheiro mecânico em uma empresa de manufatura de calcário siderúrgico, sempre me fascinei com a área de dados, desenvolvendo relatórios de análise de qualidade e desempenho da área em que atuava, reorganização de informações de controle de qualidade para facilitar a visibilidade aos gestores, desenvolvimento de métricas de KPI’s para melhorar a eficiência dos trabalhadores da equipe do qual fazia parte.
 Atualmente, tenho me dedicado aos estudos e aprimoramento sobre ciência de dados e sigo realizando projetos na plataforma do Kaggle, já tendo realizado projetos de detecção de falhas prematuras em equipamentos, predição de vendas para estimativa de estoque, análise de clustering de público alvo de campanhas de marketing.
 
-Possuo experiência com Excel, Power BI, MySQL, R, Matlab, Ansys e Python, sendo que atualmente tenho preferência por utilizar as ferramentas de Excel Power BI e Python para o desenvolvimento e solução de problemas de ciência de dados.
+Possuo experiência com Excel, Power BI, MySQL, R, GoogleCollab, Jupyter, Matlab, Ansys e Python, sendo que atualmente tenho preferência por utilizar as ferramentas de Excel Power BI e Python para o desenvolvimento e solução de problemas de ciência de dados.
 
 Abaixo você pode ver alguns projetos que eu já realizei relacionado a ciência de dados.
     
@@ -30,5 +30,6 @@ Abaixo você pode ver alguns projetos que eu já realizei relacionado a ciência
 
 # Background em: 
 
-Python, MySQL, PowerBI, GoogleCollab, Jupyter, Excel
+Excel, Power BI, MySQL, R, GoogleCollab, Jupyter, Matlab, Ansys e Python
+
 
